@@ -1,4 +1,4 @@
-# Recoginizing Human Activity Using Smartphones
+# Recognizing Human Activity Using Smartphones
 
 
 ### 1. Aim
