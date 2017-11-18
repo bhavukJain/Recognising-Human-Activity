@@ -3,7 +3,7 @@
 
 ### 1. Aim
 
-The purpose of this project is to use the dataset provided at : [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) for detecting regular human activities. This dataset has been prepared from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.  
+The purpose of this project is to use the dataset provided at [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) for detecting regular human activities. This dataset has been prepared from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.  
 
 ### 2. Description of Dataset
 
